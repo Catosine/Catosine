@@ -2,7 +2,7 @@
 
 
 🔭 I’m currently working on temporal action localization  
-🌱 I’m currently studying at McGill University as an U3 software engineering undergrad.  
+🌱 I’m currently studying at McGill University as a fourth-year software engineering undergrad.  
 📫 How to reach me: pengnan.fan@mail.mcgill.ca / pengnanf@cim.mcgill.ca  
 
 <!--
