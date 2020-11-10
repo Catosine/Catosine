@@ -5,6 +5,9 @@
 🌱 I’m currently studying at McGill University as a fourth-year software engineering undergrad.  
 📫 How to reach me: pengnan.fan@mail.mcgill.ca / pengnanf@cim.mcgill.ca  
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Catosine&show_icons=true)  ](https://github.com/Catosine/)
+
 <!--
 **Catosine/Catosine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
