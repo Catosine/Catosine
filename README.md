@@ -4,7 +4,7 @@
 🔭 I’m currently working on temporal action localization/video representation  
 🌱 I’m currently studying at McGill University as a fourth-year software engineering undergrad.  
 📫 How to reach me: pengnan.fan@mail.mcgill.ca / pengnanf@cim.mcgill.ca  
-⚡ My resume is [here](./resume_Pengnan_Fan_v1.pdf)
+⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Catosine&show_icons=true)  ](https://github.com/Catosine/)
