@@ -1,8 +1,8 @@
 ### Hi, it's Pengnan here 👋
 
 
-🔭 I’m currently working on temporal action localization/video representation  
-🌱 I’m currently studying at McGill University as a fourth-year software engineering undergrad.  
+🔭 I’m currently working on temporal action localization/video representation.  
+🌱 I will graduate from McGill University with Bachelor of Software Engineering.  
 📫 How to reach me: pengnan.fan@mail.mcgill.ca / pengnanf@cim.mcgill.ca  
 ⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf)
 
