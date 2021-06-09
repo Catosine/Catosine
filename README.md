@@ -1,8 +1,8 @@
 ### Hi, it's Pengnan here 👋
 
 
-🔭 I’m currently working on temporal action localization/video representation.  
-🌱 I will graduate from McGill University with Bachelor of Software Engineering.  
+🔭 I’m currently working at [KingMed](http://www.kingmed.com.cn/) as IT trainnee.  
+🌱 I graduate from McGill University with Bachelor of Software Engineering in Fall 2021.  
 📫 How to reach me: pengnan.fan@mail.mcgill.ca / pengnanf@cim.mcgill.ca  
 ⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf)
 
