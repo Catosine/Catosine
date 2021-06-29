@@ -3,7 +3,7 @@
 
 🔭 I’m currently working at [KingMed](http://www.kingmed.com.cn/) as IT trainnee.  
 🌱 I graduate from McGill University with Bachelor of Software Engineering in Fall 2021.  
-📫 How to reach me: pengnan.fan@mail.mcgill.ca / pengnanf@cim.mcgill.ca  
+📫 How to reach me: pengnan.fan@mail.mcgill.ca / zb-fanpengnan@kingmed.com.cn  
 ⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf)
 
 
