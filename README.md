@@ -1,7 +1,7 @@
 ### Hi, it's Pengnan here 👋
 
 
-🔭 I’m currently working at [KingMed](http://www.kingmed.com.cn/) as an NLP developer.  
+🔭 I’m currently working at [KingMed](http://www.kingmed.com.cn/) as an NLP developer with tasks in medical NLP.  
 🌱 I graduated from McGill University with Bachelor of Software Engineering in Fall 2021.  
 📫 How to reach me: pengnan.fan@mail.mcgill.ca / zb-fanpengnan@kingmed.com.cn  
 ⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf)
