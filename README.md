@@ -4,7 +4,7 @@
 🔭 I will no longer be served as NLP Developer at [KingMed](http://en.kingmed.com.cn/) since July 29, 2022.  
 🌱 I graduated from McGill University with Bachelor of Software Engineering in Fall 2021.  
 📫 How to reach me: pengnan.fan@mail.mcgill.ca / zb-fanpengnan@kingmed.com.cn  
-⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf) Last Updated on May, 2022.
+⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf) Last Updated on July, 2022.
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Catosine&show_icons=true)  ](https://github.com/Catosine/)
