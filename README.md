@@ -1,6 +1,6 @@
 ### Hi, it's Pengnan here 👋
 
-🌱 Incoming Graduate Student @UWaterloo in Winter 2023 | 2021@McGill   
+🌱 Incoming Graduate Student @UWaterloo in Summer 2023 | 2021@McGill   
 🔭 Data Science Intern [@ChromX](http://www.chromxhealth.com/) | Medical NLP Application Developer [@KingMed](https://en.kingmed.com.cn)  
 📫 How to reach me: pengnanf@icloud.com / pengnan.fan@mail.mcgill.ca
 ⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf) Last Updated on July, 2022.
