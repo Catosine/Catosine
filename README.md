@@ -2,7 +2,7 @@
 
 🌱 Incoming Graduate Student @UWaterloo in Winter 2024 | 2021@McGill   
 🔭 Medical AI Engineer [@ChromX](http://www.chromxhealth.com/) | Medical NLP Application Developer [@KingMed](https://en.kingmed.com.cn)  
-📫 How to reach me: pengnanf@icloud.com / pengnan.fan@mail.mcgill.ca.  
+📫 How to reach me: pengnanf@icloud.com / pengnanfan@chromxhealth.com  
 ⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf) Last Updated on March, 2023.
 
 
