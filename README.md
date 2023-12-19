@@ -1,7 +1,7 @@
 ### Hi, it's Pengnan here 👋
 
 🌱 B. Software Engineering @McGill2021   
-🔭 Medical AI Engineer [@ChromX](http://www.chromxhealth.com/)  
+🔭 Medical AI Engineer [@ChromX](http://www.chromxhealth.com/)     
 📫 How to reach me: pengnanf@icloud.com / pengnanfan@chromxhealth.com  
 ⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf) Last Updated on March, 2023.
 
