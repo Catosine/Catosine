@@ -3,7 +3,7 @@
 🌱 B. Software Engineering @McGill2021   
 🔭 Medical AI Engineer [@ChromX](http://www.chromxhealth.com/)     
 📫 How to reach me: pengnanf@icloud.com / pengnanfan@chromxhealth.com  
-⚡ My resume is [here](./Resume_Pengnan_Fan_v1.pdf) Last Updated on March, 2023.
+⚡ My resume is [here](./Pengnan_Fan.pdf) Last Updated on Aug. 2025
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Catosine&show_icons=true)  ](https://github.com/Catosine/)
